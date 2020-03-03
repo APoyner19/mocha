@@ -21,7 +21,7 @@
 
 ## Backers
 
-[Become a backer](https://opencollective.com/mochajs#backer) and show your support to our open source project.
+[Become a backer](https://opencollective.com/mochajs#backer) and show your support to our open source project. TEST
 
 [![MochaJS Backer](https://opencollective.com/mochajs/backer/0/avatar)](https://opencollective.com/mochajs/backer/0/website)
 [![MochaJS Backer](https://opencollective.com/mochajs/backer/1/avatar)](https://opencollective.com/mochajs/backer/1/website)
